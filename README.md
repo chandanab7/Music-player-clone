@@ -16,5 +16,7 @@ Responsive Design: Optimized for both desktop and mobile devices.
 🔧 Technologies Used
 Frontend: HTML, CSS, JavaScript
 
+![image](https://github.com/user-attachments/assets/b3c1f963-0187-4df1-998f-6f71fee38153)
+
 
 
